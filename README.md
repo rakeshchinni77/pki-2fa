@@ -22,5 +22,3 @@ The project satisfies the assignment requirements: decrypting an instructor-prov
 
 ---
 
-## Repo layout
-
